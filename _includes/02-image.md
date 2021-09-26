@@ -1,1 +1,1 @@
-![Testimage](https://img.freepik.com/free-vector/shining-circle-purple-lighting-isolated-dark-background_1441-2396.jpg?size=626&ext=jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
